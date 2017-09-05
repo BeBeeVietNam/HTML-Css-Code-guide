@@ -1,7 +1,7 @@
 HTML Coding Standards
 =====================
 From [https://github.com/xfiveco/html-coding-standards#attaching-css-and-javascript-files]
-
+Reference: http://codeguide.co/
 HTML Coding Standards you must conform to when writing HTML in projects.
 
 ## Table of contents
